@@ -1,5 +1,7 @@
 # ST10460623-MealSuggester
-YouTube link: https://youtube.com/shorts/hAatvKbET9g?feature=share 
+GitHub: https://github.com/AletheaEsau/ST10460623-MealSuggester.git 
+YouTube: https://youtube.com/shorts/hAatvKbET9g 
+
 Report
 Comprehensive Report on the Meal Suggestion App
 1. Introduction
