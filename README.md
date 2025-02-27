@@ -67,5 +67,6 @@ The Meal Suggestion App was successfully designed and developed to help users qu
 ![image](https://github.com/user-attachments/assets/5b6d81bc-2d58-447f-82c9-b1b44b99e825)
 ![image](https://github.com/user-attachments/assets/f8e48a11-039d-482b-9dbc-ffc6fa41e623)
 ![image](https://github.com/user-attachments/assets/7f20d584-3c0f-4e20-b8da-5227fc0fb359)
+![image](https://github.com/user-attachments/assets/32e422a0-7358-421a-bf09-71c6cc6e7c8d)
 
 
