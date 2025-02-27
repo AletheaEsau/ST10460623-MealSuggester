@@ -1,5 +1,5 @@
 # ST10460623-MealSuggester
-GitHub: https://github.com/AletheaEsau/ST10460623-MealSuggester.git 
+GitHub: [https://github.com/AletheaEsau/ST10460623-MealSuggester.git ](https://github.com/AletheaEsau/ST10460623-MealSuggester.git)
 YouTube: https://youtube.com/shorts/hAatvKbET9g 
 
 Report
