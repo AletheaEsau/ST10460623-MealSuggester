@@ -17,7 +17,7 @@ This app is particularly useful for individuals with busy schedules who want a f
 
 3. Design Considerations
 The development of the Meal Suggestion App involved several key design considerations to ensure usability, efficiency, and maintainability.
-3.1. User Interface Design
+User Interface Design
 The app follows a simple and clean UI design with the following components:
 •	Text Input Field: Allows users to enter a time of day (e.g., “Morning,” “Afternoon,” “Dinner”).
 •	Buttons:
@@ -25,7 +25,7 @@ o	“Suggest Meal” button to generate a meal recommendation.
 o	“Reset” button to clear the input and reset the interface.
 •	TextView: Displays the suggested meal.
 •	ImageView: Shows an image of the recommended meal.
-3.2. Meal Suggestion Logic
+Meal Suggestion Logic
 The meal recommendations are structured based on if-else conditions:
 Time of Day	Suggested Meal
 Morning	Breakfast (Eggs)
@@ -35,7 +35,7 @@ Mid-Afternoon	Quick Bite (Cake)
 Dinner	Main Course (Pasta)	
 After Dinner	Dessert (Ice Cream)
 If a user enters an invalid time, an error message prompts them to enter a correct value.
-3.3. Error Handling
+Error Handling
 To prevent incorrect inputs, the app:
 •	Validates user input using string matching.
 •	Displays clear error messages for invalid entries.
