@@ -4,7 +4,7 @@ YouTube: https://youtube.com/shorts/hAatvKbET9g
 
 Report
 1. Introduction
-A busy individual, often struggles with deciding what to eat. To address this problem, we developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
+A busy perrson, often struggles with deciding what to eat. To address this problem, I developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
 
 2. Purpose of the App
 The Meal Suggestion App aims to:
@@ -17,7 +17,7 @@ This app is particularly useful for individuals with busy schedules who want a f
 
 3. Design Considerations
 The development of the Meal Suggestion App involved several key design considerations to ensure usability, efficiency, and maintainability.
-3.1. User Interface (UI) Design
+3.1. User Interface Design
 The app follows a simple and clean UI design with the following components:
 •	Text Input Field: Allows users to enter a time of day (e.g., “Morning,” “Afternoon,” “Dinner”).
 •	Buttons:
@@ -27,7 +27,7 @@ o	“Reset” button to clear the input and reset the interface.
 •	ImageView: Shows an image of the recommended meal.
 3.2. Meal Suggestion Logic
 The meal recommendations are structured based on if-else conditions:
-Time of Day	Suggested Meal	Image
+Time of Day	Suggested Meal
 Morning	Breakfast (Eggs)
 Mid-Morning	Light Snack (Fruit)	
 Afternoon	Lunch (Sandwich)	
@@ -43,13 +43,13 @@ To prevent incorrect inputs, the app:
 
 4. Utilization of GitHub and GitHub Actions
 To ensure efficient collaboration, GitHub and GitHub Actions were used for version control and automated testing.
-4.1. GitHub for Version Control
+GitHub for Version Control
 •	A GitHub repository was created to manage the app’s source code.
 •	Regular commits and pushes were made to track progress.
 •	Branching was utilized for feature development and bug fixes.
-4.2. GitHub Actions for Automation
+GitHub Actions for Automation
 To maintain code quality and reliability, GitHub Actions was implemented. It automates:
-1.	Continuous Integration (CI) – Ensures the app builds successfully.
+1.	Continuous Integration – Ensures the app builds successfully.
 2.	Automated Testing – Verifies the correctness of implemented features.
 5. Conclusion
 The Meal Suggestion App was successfully designed and developed to help users quickly decide on meals based on the time of day. With a user-friendly UI, effective meal logic, and GitHub integration, this app ensures a smooth and maintainable experience. The use of GitHub Actions further enhances code reliability through automated testing and continuous integration. Future improvements could include a database for dynamic meal options and voice input functionality for an even better user experience.
