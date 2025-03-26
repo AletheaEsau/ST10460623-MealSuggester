@@ -3,10 +3,9 @@ GitHub: [https://github.com/AletheaEsau/ST10460623-MealSuggester.git ](https://g
 YouTube: https://youtube.com/shorts/hAatvKbET9g 
 
 Report
-Comprehensive Report on the Meal Suggestion App
 1. Introduction
-Hera, a busy individual, often struggles with deciding what to eat. To address this problem, we developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
-________________________________________
+A busy individual, often struggles with deciding what to eat. To address this problem, we developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
+
 2. Purpose of the App
 The Meal Suggestion App aims to:
 •	Provide quick meal recommendations based on different times of the day.
@@ -15,7 +14,7 @@ The Meal Suggestion App aims to:
 •	Implement error handling for incorrect user input.
 •	Maintain code efficiency and version control using GitHub and GitHub Actions.
 This app is particularly useful for individuals with busy schedules who want a fast and effective way to plan meals without thinking too much about it.
-________________________________________
+
 3. Design Considerations
 The development of the Meal Suggestion App involved several key design considerations to ensure usability, efficiency, and maintainability.
 3.1. User Interface (UI) Design
@@ -29,19 +28,19 @@ o	“Reset” button to clear the input and reset the interface.
 3.2. Meal Suggestion Logic
 The meal recommendations are structured based on if-else conditions:
 Time of Day	Suggested Meal	Image
-Morning	Breakfast (Eggs)	🥚
-Mid-Morning	Light Snack (Fruit)	🍎
-Afternoon	Lunch (Sandwich)	🥪
-Mid-Afternoon	Quick Bite (Cake)	🍰
-Dinner	Main Course (Pasta)	🍝
-After Dinner	Dessert (Ice Cream)	🍨
+Morning	Breakfast (Eggs)
+Mid-Morning	Light Snack (Fruit)	
+Afternoon	Lunch (Sandwich)	
+Mid-Afternoon	Quick Bite (Cake)	
+Dinner	Main Course (Pasta)	
+After Dinner	Dessert (Ice Cream)
 If a user enters an invalid time, an error message prompts them to enter a correct value.
 3.3. Error Handling
 To prevent incorrect inputs, the app:
 •	Validates user input using string matching.
 •	Displays clear error messages for invalid entries.
 •	Ensures a smooth user experience by guiding users toward correct input.
-________________________________________
+
 4. Utilization of GitHub and GitHub Actions
 To ensure efficient collaboration, GitHub and GitHub Actions were used for version control and automated testing.
 4.1. GitHub for Version Control
