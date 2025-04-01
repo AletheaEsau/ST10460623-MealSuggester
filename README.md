@@ -3,10 +3,9 @@ GitHub: [https://github.com/AletheaEsau/ST10460623-MealSuggester.git ](https://g
 YouTube: https://youtube.com/shorts/hAatvKbET9g 
 
 Report
-1. Introduction
 A busy perrson, often struggles with deciding what to eat. To address this problem, I developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
 
-2. Purpose of the App
+Purpose of the App
 The Meal Suggestion App aims to:
 •	Provide quick meal recommendations based on different times of the day.
 •	Offer a user-friendly interface for effortless interaction.
@@ -15,7 +14,7 @@ The Meal Suggestion App aims to:
 •	Maintain code efficiency and version control using GitHub and GitHub Actions.
 This app is particularly useful for individuals with busy schedules who want a fast and effective way to plan meals without thinking too much about it.
 
-3. Design Considerations
+Design Considerations
 The development of the Meal Suggestion App involved several key design considerations to ensure usability, efficiency, and maintainability.
 User Interface Design
 The app follows a simple and clean UI design with the following components:
@@ -41,7 +40,7 @@ To prevent incorrect inputs, the app:
 •	Displays clear error messages for invalid entries.
 •	Ensures a smooth user experience by guiding users toward correct input.
 
-4. Utilization of GitHub and GitHub Actions
+Utilization of GitHub and GitHub Actions
 To ensure efficient collaboration, GitHub and GitHub Actions were used for version control and automated testing.
 GitHub for Version Control
 •	A GitHub repository was created to manage the app’s source code.
@@ -51,8 +50,17 @@ GitHub Actions for Automation
 To maintain code quality and reliability, GitHub Actions was implemented. It automates:
 1.	Continuous Integration – Ensures the app builds successfully.
 2.	Automated Testing – Verifies the correctness of implemented features.
-5. Conclusion
+
 The Meal Suggestion App was successfully designed and developed to help users quickly decide on meals based on the time of day. With a user-friendly UI, effective meal logic, and GitHub integration, this app ensures a smooth and maintainable experience. The use of GitHub Actions further enhances code reliability through automated testing and continuous integration. Future improvements could include a database for dynamic meal options and voice input functionality for an even better user experience.
+
+Referencing:
+JetBrains (2024) Kotlin programming language documentation. Available at: https://kotlinlang.org/docs/home.html (Accessed: 31 March 2025).
+Google (2024) Android developer documentation. Available at: https://developer.android.com/docs (Accessed: 31 March 2025).
+GitHub (2024) GitHub Actions Documentation. Available at: https://docs.github.com/en/actions (Accessed: 31 March 2025).
+Android Developers (2024) Building UI with Layouts in Android Studio. Available at: https://developer.android.com/guide/topics/ui/ (Accessed: 31 March 2025).
+Stack Overflow (2024) How to set up GitHub Actions for Android CI/CD? Available at: https://stackoverflow.com/questions/60598478/ (Accessed: 31 March 2025).
+Google (2024) Android Gradle Plugin Release Notes. Available at: https://developer.android.com/studio/releases/gradle-plugin (Accessed: 31 March 2025).
+
       
        
 ![image](https://github.com/user-attachments/assets/ad393637-b69a-4e35-b39e-53bb63d8fcd3)
