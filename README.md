@@ -2,7 +2,6 @@
 GitHub: [https://github.com/AletheaEsau/ST10460623-MealSuggester.git ](https://github.com/AletheaEsau/ST10460623-MealSuggester.git)
 YouTube: https://youtube.com/shorts/hAatvKbET9g 
 
-Report
 A busy perrson, often struggles with deciding what to eat. To address this problem, I developed a Meal Suggestion App using Kotlin in Android Studio. This app simplifies meal choices based on the time of the day, making meal selection more convenient and enjoyable. The user inputs a time of day, and the app suggests an appropriate meal while displaying an image.
 
 Purpose of the App
